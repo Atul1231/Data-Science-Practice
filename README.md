@@ -28,6 +28,9 @@ data-science-practice/
 ├── README.md
 ├──EDA
 │  ├── 01-titanic.ipynb
+├──Machine_Learning
+│  ├── 01 magic04.data
+│  ├── 02 Supervised_model1.ipynb
 ├──Seaborn_practice
 │  ├── 01-seaborn.ipynb
 ├──maths_in_DataScience
