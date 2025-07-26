@@ -32,6 +32,7 @@ data-science-practice/
 │  ├── 01-seaborn.ipynb
 ├──maths_in_DataScience
 │  ├── 01-math.ipynb
+│  ├── 02-statistical_plotting.ipynb
 ├──matplotlib_practice
 │  ├── 01-matplotlib.ipynb
 ├──numpy_practice
