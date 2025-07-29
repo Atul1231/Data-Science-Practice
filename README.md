@@ -31,6 +31,7 @@ data-science-practice/
 ├──Machine_Learning
 │  ├── 01 magic04.data
 │  ├── 02 Supervised_model1.ipynb
+│  ├── 03 Linear_Regression_model.ipynb
 ├──Seaborn_practice
 │  ├── 01-seaborn.ipynb
 ├──maths_in_DataScience
