@@ -12,7 +12,7 @@ This repository is a personal learning journal where I store and organize all my
 - Python programming
 - Data analysis & visualization
 - Statistics & mathematics for machine learning
-- Machine learning algorithms(coming soon!)
+- Machine learning algorithms(ongoing!)
 - Feature engineering
 - Model evaluation(coming soon!)
 - Projects and case studies (coming soon!)
