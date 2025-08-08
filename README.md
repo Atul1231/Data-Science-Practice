@@ -34,6 +34,7 @@ data-science-practice/
 │  ├── 03 Supervised_model1.ipynb
 │  ├── 04 Linear_Regression_model.ipynb
 │  ├── 05 Logistic_Regression_model.ipynb
+│  ├── 06 kernel-trick-svm.ipynb
 ├──Seaborn_practice
 │  ├── 01-seaborn.ipynb
 ├──maths_in_DataScience
