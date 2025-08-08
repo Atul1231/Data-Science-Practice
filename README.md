@@ -12,7 +12,7 @@ This repository is a personal learning journal where I store and organize all my
 - Python programming
 - Data analysis & visualization
 - Statistics & mathematics for machine learning
-- Machine learning algorithms(coming soon!)
+- Machine learning algorithms(ongoing!)
 - Feature engineering
 - Model evaluation(coming soon!)
 - Projects and case studies (coming soon!)
@@ -32,6 +32,7 @@ data-science-practice/
 │  ├── 01 magic04.data
 │  ├── 02 Supervised_model1.ipynb
 │  ├── 03 Linear_Regression_model.ipynb
+│  ├── 04 Logistic_Regression_model.ipynb
 ├──Seaborn_practice
 │  ├── 01-seaborn.ipynb
 ├──maths_in_DataScience
