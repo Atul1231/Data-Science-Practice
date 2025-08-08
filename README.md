@@ -29,10 +29,11 @@ data-science-practice/
 ├──EDA
 │  ├── 01-titanic.ipynb
 ├──Machine_Learning
-│  ├── 01 magic04.data
-│  ├── 02 Supervised_model1.ipynb
-│  ├── 03 Linear_Regression_model.ipynb
-│  ├── 04 Logistic_Regression_model.ipynb
+│  ├── 01 Hard_Margin_svm.ipynb
+│  ├── 02 magic04.data
+│  ├── 03 Supervised_model1.ipynb
+│  ├── 04 Linear_Regression_model.ipynb
+│  ├── 05 Logistic_Regression_model.ipynb
 ├──Seaborn_practice
 │  ├── 01-seaborn.ipynb
 ├──maths_in_DataScience
