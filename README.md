@@ -35,6 +35,8 @@ data-science-practice/
 │  ├── 04 Linear_Regression_model.ipynb
 │  ├── 05 Logistic_Regression_model.ipynb
 │  ├── 06 kernel-trick-svm.ipynb
+│  ├── 07 Ensemble_techniques.ipynb
+│  ├── 08 iris.csv
 ├──Seaborn_practice
 │  ├── 01-seaborn.ipynb
 ├──maths_in_DataScience
