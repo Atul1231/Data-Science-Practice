@@ -29,15 +29,18 @@ data-science-practice/
 ├──EDA
 │  ├── 01-titanic.ipynb
 ├──Machine_Learning
+│  ├──Datasets
+│  │   ├── 01 Boston.csv
+│  │   ├── 02 magic04.data
+│  │   ├── 03 Heart.csv
+│  │   ├── 04 iris.csv
 │  ├── 01 Hard_Margin_svm.ipynb
-│  ├── 02 magic04.data
-│  ├── 03 Supervised_model1.ipynb
-│  ├── 04 Linear_Regression_model.ipynb
-│  ├── 05 Logistic_Regression_model.ipynb
-│  ├── 06 kernel-trick-svm.ipynb
-│  ├── 07 Voting_and_Bagging.ipynb
-│  ├── 08 Boston.csv
-│  ├── 09 iris.csv
+│  ├── 02 Supervised_model1.ipynb
+│  ├── 03 Linear_Regression_model.ipynb
+│  ├── 04 Logistic_Regression_model.ipynb
+│  ├── 05 kernel-trick-svm.ipynb
+│  ├── 06 Voting_and_Bagging.ipynb
+│  ├── 07 Random-Forest-Algo-Demo.ipynb
 ├──Seaborn_practice
 │  ├── 01-seaborn.ipynb
 ├──maths_in_DataScience
