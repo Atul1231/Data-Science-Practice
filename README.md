@@ -41,6 +41,7 @@ data-science-practice/
 │  ├── 05 kernel-trick-svm.ipynb
 │  ├── 06 Voting_and_Bagging.ipynb
 │  ├── 07 Random-Forest-Algo-Demo.ipynb
+│  ├── 08 AdaBoost.ipynb
 ├──Seaborn_practice
 │  ├── 01-seaborn.ipynb
 ├──maths_in_DataScience
