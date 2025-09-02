@@ -42,6 +42,7 @@ data-science-practice/
 │  ├── 06 Voting_and_Bagging.ipynb
 │  ├── 07 Random-Forest-Algo-Demo.ipynb
 │  ├── 08 AdaBoost.ipynb
+│  ├── 09 K-means.ipynb
 ├──Seaborn_practice
 │  ├── 01-seaborn.ipynb
 ├──maths_in_DataScience
